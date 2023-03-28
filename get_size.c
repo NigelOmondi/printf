@@ -2,7 +2,7 @@
 
 /**
  * get_size - calculates the size to cast the argument
- * @format: fornatted string in which to print the argument 
+ * @format: fornatted string in which to print the argument
  * @i: list of arguments to be printed
  *
  * Return: precision
